@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad>
+    <InLine>
+      <AdSystem>Test</AdSystem>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <VideoClicks>
+              <ClickThrough><![CDATA[javascript:alert(document.domain)]]></ClickThrough>
+            </VideoClicks>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
